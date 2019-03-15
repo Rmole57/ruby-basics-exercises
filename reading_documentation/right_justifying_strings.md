@@ -5,4 +5,4 @@ Use the ruby documentation for the `String` class to determine which method can 
 
 ANSWER:
 
-The `#rjust` method can be used to right justify a String object.
+The `#rjust` method can be used to right justify a `String` object.
